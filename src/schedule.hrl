@@ -1,0 +1,1 @@
+-record(schedule_entry, {name, simulator, time}).
